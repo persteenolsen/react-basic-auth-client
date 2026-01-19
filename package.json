@@ -1,0 +1,41 @@
+{
+    "name": "react-18-redux-basic-authentication-example",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@hookform/resolvers": "^2.9.0",
+        "@reduxjs/toolkit": "^2.11.2",
+        "react": "^19.0.1",
+        "react-dom": "^19.0.1",
+        "react-hook-form": "^7.54.2",
+        "react-redux": "^9.2.0",
+        "react-router-dom": "^7.1.1",
+        "react-scripts": "5.0.1",
+        "yup": "^0.32.11"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "volta": {
+        "node": "24.13.0"
+    }
+}
