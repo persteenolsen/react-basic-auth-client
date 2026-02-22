@@ -2,7 +2,7 @@
 
 React + Redux - HTTP Basic Authentication Example and Tutorial
 
-Last updated: 06-02-2026
+Last updated: 22-02-2026
 
 Node: 24.13.0
 
